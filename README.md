@@ -2,7 +2,7 @@
 
 This code workflow involves preprocessing weather data, building an LSTM model for time series forecasting, and training it on temperature predictions using the following steps:
 
-Data Preprocessing:
+**Data Preprocessing:**
 Loading and Cleaning Data:
 
 The dataset is read from a CSV file (testset.csv).
